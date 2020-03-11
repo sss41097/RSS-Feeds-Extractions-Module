@@ -1,0 +1,5 @@
+RSS Feed Module
+This module focuses on the extraction of RSS news from various agricultural websites.
+All the news are fetched from rss feeds of websites using python scraping on a daily basis.
+Latest news are taken from these websites and fed into the database.
+All the news were also converted into 5 regional languages.
